@@ -1,0 +1,41 @@
+# Your Name or Company
+title: Mario García
+
+# Description of your website. This is used for social sharing.
+description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+
+# A brief blurb about yourself
+content: I am a Free and Open Source Software Enthusiast. Speaker. Backend developer with experience in Python and Rust. Mozillian. Mozilla Reps. Featured expert at <a href="https://foundation.mozilla.org/opportunity/mozilla-open-leaders/" target="_blank">Mozilla Open Leaders</a>. Write at <a href="https://dev.to/" target="_blank">dev.to</a>. <a href="https://www.gitkraken.com/invite/kwf1vC7b" target="_blank">GitKraken</a> Ambassador. Mentor at <a href="https://mentors.codingcoach.io/">Coding Coach</a>.
+
+# Half layout options
+half_side: left
+half_image: woman-half.jpg
+
+# Add your social links
+social:
+  - platform: github
+    url: https://github.com/mattdark
+  - platform: twitter
+    url: https://twitter.com/mariogmd
+  - platform: linkedin
+    url: mattdark
+  - platform: dev.to
+    url: https://dev.to/mattdark
+  - platform: email
+    url: mailto:hi@mariog.xyz
+
+# General settings
+url: https://mariog.xyz/
+baseurl: "/"
+markdown: kramdown
+sharing_image: share.jpg
+google_analytics: "UA-58263416-1" # google analytics tracking
+permalink: pretty
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
